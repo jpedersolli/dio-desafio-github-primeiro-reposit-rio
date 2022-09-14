@@ -2,4 +2,4 @@
 Repositório criado para desafio de projeto sobre GIT/GITHUB da DIO.
 
 ## Links úteis
-[Sintaxe básica Marckdown] (https://www.markdownguide.org/basic-syntax/)
+[Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
